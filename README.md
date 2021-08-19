@@ -1,5 +1,6 @@
 # Rock-v-s-mine
 ## Resume points
+**Rock Vs Mine prediction using SONAR Data by Logistic Regression**
 1. Performed data preprocessing using Pandas library and trained the Logistic Regression model on the 90-10 split dataset
 2. Evaluated the model using Accuracy score by Scikit-learn and obtained an score 83% & 76% for the training & test data
 
